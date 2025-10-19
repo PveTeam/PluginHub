@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+  <Id>StrongBroArina2/SEENG_ES</Id>
+  
+  <FriendlyName>SEENG: Engine Sounds!</FriendlyName>
+  
+  <Author>dogboy</Author>
+  
+  <Tooltip>Customizable ships sounds, makes your ship alive!</Tooltip>
+
+  <Description>Adds authentic engine sounds that dynamically respond to your ships speed, maneuvering, startup, hull ambiences and more,
+  providing an immersive GaMInG experience. Choose from a diverse selection of engine addons and switch between them
+  on the move. To add more engines, simply enable them as a client mod. Access menu by presing F1.
+  *Works on the servers aswell.</Description>
+
+  <Commit>55804dcb68396e6126b20c7d48696c693564cb62</Commit>
+</PluginData>
