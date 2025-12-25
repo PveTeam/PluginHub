@@ -10,7 +10,7 @@
 
   <Description>Adds authentic engine sounds that dynamically respond to your ships speed, maneuvering, startup, hull ambiences and more,
   providing an immersive GaMInG experience. Choose from a diverse selection of engine addons and switch between them
-  on the move. To add more engines, simply enable them as a client mod. Access menu by presing F1.
+  on the move. To add more engines, simply enable them as a client mod. Access menu by presing Ctrl + F1.
   *Works on the servers aswell.</Description>
 
   <Commit>9c9e863f050b3eb164b7afe9371a3dff74ac6170</Commit>
