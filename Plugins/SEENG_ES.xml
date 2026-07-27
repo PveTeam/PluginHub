@@ -2,7 +2,7 @@
 <PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
   <Id>StrongBroArina2/SEENG_ES</Id>
   
-  <FriendlyName>SEENG: Engine Sounds! 1.4.1</FriendlyName>
+  <FriendlyName>SEENG: Engine Sounds! 1.4.2</FriendlyName>
   
   <Author>dogboy</Author>
   
@@ -15,7 +15,7 @@
   
   Allows to make your own sound packs</Description>
 
-  <Commit>5160d1e489243a4fb38945531660f9ebadb6babf</Commit>
+  <Commit>534242ba7333d2aceb9cecab9d45f5016a311ff0</Commit>
 
   <ImplicitUsings>true</ImplicitUsings> 
 </PluginData>
